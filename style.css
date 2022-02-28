@@ -11,7 +11,13 @@ h2{
     color: #A5A58D;
     font-family: "Roboto", Helvetica, sans-serif;
     }
-    
+h3{
+    font-size: 25px;
+    text-align: left;
+    color: #A5A58D;
+    font-family: "Roboto", Helvetica, sans-serif;
+    }
+
     p{
     font-size: 20px;
     text-align: justify;
